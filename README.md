@@ -27,7 +27,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="cplusplus logo" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="cplusplus logo" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="30" alt="cplusplus logo" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="30" alt="cplusplus logo" />
+
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="cplusplus logo" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="cplusplus logo" />
   
@@ -50,7 +50,7 @@
 ###
 
 
-<!--- - 👋 Hi, I’m @nirmalrathod23
+<!--- - 👋 Hi, I’m @krishnapatel-io
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -60,6 +60,6 @@
 --->
 
 <!---
-nirmalrathod23/nirmalrathod23 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+krishnapatel-io/krishnapatel-io is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
